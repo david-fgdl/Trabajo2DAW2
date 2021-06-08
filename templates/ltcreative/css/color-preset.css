@@ -1,0 +1,58 @@
+:root {
+    --background-color: currentColor;
+    --background: currentColor;
+    --text-color: currentColor;
+}
+.lt-slider-color i,
+.lt-intro-item .sppb-icon,
+.lt-about .sppb-row,
+.tp-caption a,
+.sppb-btn-custom,
+.lt-pricing-content .order:hover,
+#sp-footer,
+#lt-start .sppb-btn-custom,
+.tp-caption a.btn-slider,
+div.itemCommentsForm form input#submitCommentButton,
+div.itemCommentsForm form input#submitCommentButton:hover {
+    background-color: var(--background-color);
+}
+.sp-megamenu-parent > li .sp-menu-badge,
+.creativecontactform_wrapper input.creativecontactform_send {
+    background: var(--background-color);
+}
+#lt-feature .sppb-btn-custom:hover {
+	background-color: var(--background-color)!important;
+}
+
+.lt-intro-title .sppb-addon-content:before,
+.lt-intro-item:hover .sppb-icon i,
+.sp-megamenu-parent > li.active > a, 
+.sp-megamenu-parent > li.active:hover > a,
+body.itemid-101 .sp-simpleportfolio .sp-simpleportfolio-filter > ul > li:hover > a,
+body.itemid-101 .sp-simpleportfolio .sp-simpleportfolio-filter > ul > li.active > a,
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li:hover > a,
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li.active > a,
+.lt-blog h3,
+#lt-contact-info .sppb-btn-custom a,
+.lt-team-item .img-position,
+.lt-contact-us ul li em,
+.lt-contact-form h4,
+div.k2ItemsBlock ul li a {
+	color: var(--text-color);
+}
+ #lt-portfolio .sppb-section-title .sppb-title-heading,
+#sp-bottom a,
+#lt-contact-info a.sppb-btn-custom,
+#lt-contact-info .sppb-btn-custom a,
+.lt-pricing-content a {
+  	color: var(--text-color)!important;
+}
+.tp-caption a.btn-slider:hover,
+.lt-pricing-content .order {
+  border-color:var(--text-color)
+}
+#sp-footer,
+.tp-caption a.btn-slider:hover {
+  background: var(--background-color)!important;
+}
+
